@@ -78,5 +78,3 @@ module.exports.fizzBuzz = fizzBuzz
 module.exports.FIZZ = FIZZ
 module.exports.BUZZ = BUZZ
 module.exports.FIZZBUZZ = FIZZBUZZ
-
-// export { test, isFizzy, isBuzzy, fizzyBuzzy, fizzBuzz, FIZZ, BUZZ, FIZZBUZZ }
